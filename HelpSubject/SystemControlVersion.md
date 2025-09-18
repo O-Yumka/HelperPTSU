@@ -43,6 +43,7 @@
 
 # работы с ветками 
 * git branch <nameBranch> создаёт
-* git chechout <nameBranch> переключается 
+* git checkout <main> переключается 
 * git branch -l
 * git push origin 
+* git merge <mainName>
