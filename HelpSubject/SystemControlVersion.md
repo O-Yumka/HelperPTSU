@@ -40,3 +40,9 @@
 * git clone <(URL)>
 * git revert <индифектор комита> откат изменения комита
 * git reset *СНОСИТ ИЗМЕНЕНИЯ БЕЗ ВОЗМОЖНОСТИ ОТКАТА* 
+
+# работы с ветками 
+* git branch <nameBranch> создаёт
+* git chechout <nameBranch> переключается 
+* git branch -l
+* git push origin 
